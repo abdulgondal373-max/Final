@@ -1,0 +1,13 @@
+{
+  "name": "bot-matchs-telegram",
+  "version": "1.0.0",
+  "description": "Bot de redirection vers Telegram",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.1"
+  }
+}
